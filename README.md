@@ -1,6 +1,8 @@
-# Validator.js
+# organizator-validator
 
-Validator is a validation engine and library for JavaScript which has its own scripting language and is extendable in object-oriented manner.
+> This README is deprecated in the aspect of module loading.
+
+organizator-validator is a validation engine and library for JavaScript which has its own scripting language. It's extendable in object-oriented manner and part of Organizator framework.
 
 ## Overview
 
