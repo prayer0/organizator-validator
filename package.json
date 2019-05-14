@@ -1,0 +1,19 @@
+{
+  "name": "organizator-validator",
+  "version": "0.1.0",
+  "description": "scriptable validation engine for javascript",
+  "main": "Component/Validation/Validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:/github.com/prayer0/organizator-validator"
+  },
+  "keywords": [
+    "validator",
+    "validation"
+  ],
+  "author": "https://github.com/@prayer0, https://twitter.com/@prayer0000",
+  "license": "ISC"
+}
